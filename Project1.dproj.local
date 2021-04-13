@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/21 10:28:23.000.924,=C:\Users\cst_tmr_michel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/06 18:34:43.000.567,=C:\Users\cst_tmr_michel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/13 11:29:56.438,=C:\Users\cst_tmr_michel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/13 11:30:12.990,=C:\Users\cst_tmr_michel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/04/13 11:30:15.897,=C:\Users\cst_tmr_michel\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/04/13 11:30:50.473,C:\Users\cst_tmr_michel\Desktop\tmp\ExemploClasse\uClasse.Pessoa.pas=C:\Users\cst_tmr_michel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/04/13 11:30:59.082,C:\Users\cst_tmr_michel\Desktop\tmp\ExemploClasse\uClasse.Vendedor.pas=C:\Users\cst_tmr_michel\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/04/13 11:31:03.408,C:\Users\cst_tmr_michel\Desktop\tmp\ExemploClasse\uPrincipal.dfm=C:\Users\cst_tmr_michel\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/04/13 11:31:03.408,C:\Users\cst_tmr_michel\Desktop\tmp\ExemploClasse\uPrincipal.pas=C:\Users\cst_tmr_michel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/13 11:31:06.278,C:\Users\cst_tmr_michel\Desktop\tmp\ExemploClasse\Project1.dproj=C:\Users\cst_tmr_michel\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
